@@ -1,4 +1,9 @@
-## Hi there 👋
+## # Febri Kurniawan
+
+Traffic safety researcher with a background in transportation engineering.
+My work focuses on crash data analytics, injury severity modeling,
+and machine learning approaches for traffic safety analysis.
+
 
 <!--
 **febrikurniawan-id/febrikurniawan-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
