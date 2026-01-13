@@ -4,6 +4,11 @@ Traffic safety researcher with a background in transportation engineering.
 My work focuses on crash data analytics, injury severity modeling,
 and machine learning approaches for traffic safety analysis.
 
+## Research Interests
+- Traffic safety and crash analysis
+- Injury severity and vehicle damage modeling
+- Machine learning and statistical methods for transportation safety
+- Big data analytics for traffic risk assessment
 
 <!--
 **febrikurniawan-id/febrikurniawan-id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
